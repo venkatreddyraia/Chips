@@ -1,0 +1,17 @@
+.App {
+  text-align: left;
+}
+
+.css-1rhbuit-multiValue {
+  background-color: hsl(0, 0%, 90%);
+  border-radius: 21px!important;
+  padding: 2px 10px !important;
+  
+}
+.css-xb97g8{
+  border-radius: 12px!important;
+}
+.css-xb97g8:hover {
+  background-color: #FFBDAD;
+  color: #DE350B;
+}
